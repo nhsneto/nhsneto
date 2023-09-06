@@ -1,9 +1,8 @@
 ### Hi there 👋
-- 🔎 I'm interested in WEB and Mobile Development
-- 🛠️ I’m currently building a reverse blog called *Janblog*
-- 🌱 I’m currently learning Angular, Kotlin, MongoDB and OAuth2
-- 📫 How to reach me: nhsneto at gmail.com
-
+&nbsp;&nbsp;&nbsp;&nbsp;🔎 I'm interested in WEB and Mobile Development  
+&nbsp;&nbsp;&nbsp;&nbsp;🛠️ I’m currently building a reverse blog called *Janblog*  
+&nbsp;&nbsp;&nbsp;&nbsp;🌱 I’m currently learning Angular, Kotlin, MongoDB and OAuth2  
+&nbsp;&nbsp;&nbsp;&nbsp;📫 How to reach me: nhsneto at gmail.com
 <!--
 **nhsneto/nhsneto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
