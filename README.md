@@ -1,7 +1,8 @@
 ### Hi there 👋
-- 🔎 I'm interested in WEB and Mobile Development  
-- 🛠️ I’m currently building a reverse blog called *Janblog*  
-- 🌱 I’m currently learning Angular, Kotlin, MongoDB and OAuth2  
+- 🔎 I'm interested in WEB and Mobile Development
+- 🛠️ I’m currently building a reverse blog called *Janblog*
+- 🌱 I’m currently learning Angular, Kotlin, MongoDB, and OAuth2
+- 📖 I'm currently reading *The Mythical Man-Month* by Frederick Brooks Jr
 - 📫 How to reach me: nhsneto at gmail.com
 <!--
 **nhsneto/nhsneto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
