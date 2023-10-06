@@ -1,4 +1,4 @@
-### Hi there, I'm Nelson 👋
+### Hi, I'm Nelson 👋
 - 🔎 I'm interested in **WEB** and **Mobile Development**
 - 🛠️ I’m currently building a reverse blog called *Janblog*
 - 🌱 I’m currently learning *Angular,* *Kotlin,* *MongoDB,* and *OAuth2*
