@@ -1,7 +1,6 @@
 ### Hi, I'm Nelson 👋
 - 🔎 I'm interested in **WEB** and **Mobile Development**
-- 🛠️ I’m currently building a reverse blog called *Janblog*
-- 🌱 I’m currently learning *Next.js,* *Flutter,* *MongoDB,* and *OAuth2*
+- 🌱 I’m currently learning *PHP,* *Flutter,* *Next.js,* *PostgreSQL,* and *MongoDB*
 - 📫 How to reach me: nhsneto@gmail.com
 <!--
 **nhsneto/nhsneto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
