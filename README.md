@@ -2,6 +2,10 @@
 - 🔎 I'm interested in **WEB** and **Mobile Development**
 - 🌱 I’m currently learning *PHP,* *Flutter,* *Next.js,* *PostgreSQL,* and *MongoDB*
 - 📫 How to reach me: nhsneto@gmail.com
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nhsneto&theme=dark&show_icons=true&locale=en" alt="nhsneto" />
+</p>
+
 <!--
 **nhsneto/nhsneto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
