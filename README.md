@@ -1,6 +1,6 @@
 ### Hi, I'm Nelson 👋
 - 🔎 I'm interested in **WEB** and **Mobile Development**
-- 🌱 I’m currently learning *PHP,* *Flutter,* *PostgreSQL,* and *MongoDB*
+- 🌱 I’m currently learning *PHP,* *PostgreSQL,* and *MongoDB*
 - 📫 How to reach me: nhsneto@gmail.com
 
 <!--
