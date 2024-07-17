@@ -1,5 +1,5 @@
 ### Hi, I'm Nelson 👋
-- 🔎 I'm interested in **Back-End** and **WEB Development**
+- 🔎 I'm interested in *Back-End* and *Web Development*
 - 🌱 I’m currently learning *PHP* and *Laravel*
 - 📫 How to reach me: nhsneto@gmail.com
 
