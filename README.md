@@ -1,5 +1,5 @@
 ### Hi, I'm Nelson 👋
-- 🔎 I'm interested in *Back-End* and *Web Development*
+- 🔎 I'm interested in *Web* and *Mobile Development*
 - 🌱 I’m currently learning *C#*, *.Net* and *Vue.js*
 - 📫 How to reach me: nhsneto@gmail.com
 
