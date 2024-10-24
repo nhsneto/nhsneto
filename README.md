@@ -1,6 +1,6 @@
 ### Hi, I'm Nelson 👋
-- 🔎 I'm interested in *Web*, *Mobile Development* and *Cloud*
-- 🌱 I’m currently learning *C#*, *.Net* and *Vue.js*
+- 🔎 I'm interested in *Web Development* and *DevOps*
+- 🌱 I’m currently learning *Networks* and *AWS*
 - 📫 How to reach me: nhsneto@gmail.com
 
 <!--
