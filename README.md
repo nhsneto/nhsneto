@@ -1,6 +1,6 @@
 ### Hi, I'm Nelson 👋
 - 🔎 I'm interested in *Web Development* and *DevOps*
-- 🌱 I’m currently learning *Networks (Cisco - Network Fundamentals Course)* and *Linux (NDG - Linux Essentials Course)*
+- 🌱 I’m currently learning *Networks (Cisco - Network Fundamentals Course)* and *IT Support (Google + CIEE - Google IT Support Certificate)*
 - 📫 How to reach me: nhsneto@gmail.com
 
 <!--
