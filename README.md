@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning:
     - *Networks (Cisco - Network Fundamentals Course)*
     - *IT Support (Google + CIEE - Google IT Support Certificate)*
-- 📫 How to reach me: nhsneto@gmail.com
 
 <!--
 **nhsneto/nhsneto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
