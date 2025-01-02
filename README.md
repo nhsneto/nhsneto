@@ -1,8 +1,8 @@
-### Hi, I'm Nelson 👋
-- 🔎 I'm interested in *Web Development* and *IT Support*
-- 🌱 I’m currently learning:
-    - *Networks (Cisco - Network Fundamentals Course)*
-    - *IT Support (Google + CIEE - Google IT Support Certificate)*
+### Olá, meu nome é Nelson 👋
+- 🔎 Tenho interesse em *Desenvolvimento WEB* e *Suporte*
+- 🌱 Atualmente, estou cursando:
+    - *Redes (Cisco - Fundamentos de Redes)*
+    - *Suporte em TI (Google + CIEE - Suporte de TI do Google)*
 
 <!--
 **nhsneto/nhsneto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
