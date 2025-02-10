@@ -1,7 +1,6 @@
 ### Olá, meu nome é Nelson 👋
 - 🔎 Tenho interesse em *Desenvolvimento WEB* e *Suporte*
 - 🌱 Atualmente, estou cursando:
-    - *Redes (Cisco - Fundamentos de Redes)*
     - *Suporte em TI (Google + CIEE - Suporte de TI do Google)*
 
 <!--
