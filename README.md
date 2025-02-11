@@ -1,5 +1,5 @@
 ### Olá, meu nome é Nelson 👋
-- 🔎 Tenho interesse em *Desenvolvimento WEB* e *Suporte*
+- 🔎 Tenho interesse em ***Suporte*** e *Desenvolvimento WEB*
 - 🌱 Atualmente, estou cursando:
     - *Suporte em TI (Google + CIEE - Suporte de TI do Google)*
 
