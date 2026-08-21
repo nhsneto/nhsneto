@@ -8,7 +8,7 @@
 
 🛠 **Ferramentas:**
 
-- **Linguagens:** Python, JavaScript, PHP, Java.
-- **Frameworks e Bibliotecas:** React, Node.js, Spring Boot, Laravel.
-- **Banco de dados:** MySQL, MongoDB.
-- **DevOps:** AWS, GitHub Actions, Terraform, Docker, Linux.
+- **Linguagens:** *Python, JavaScript, PHP, Java.*
+- **Frameworks e Bibliotecas:** *React, Node.js, Spring Boot, Laravel.*
+- **Banco de dados:** *MySQL, MongoDB.*
+- **DevOps:** *AWS, GitHub Actions, Terraform, Docker, Linux.*
