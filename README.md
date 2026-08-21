@@ -4,7 +4,7 @@
 - 🌱 Tenho interesse em _DevOps, Infraestrutura e Suporte_.
 - 🔭 Estou participando da Formação Acelerada em Programação (FAP) em **DevOps** na [Aponti](https://aponti.org.br/aponti).
 - 🌍 Sou de Paulista, Pernambuco.
-- 📫 Como me encontrar: [linkedin](https://linkedin.com/nhsneto) | [email](mailto:nhsneto@gmail.com)
+- 📫 Como me encontrar: [linkedin](https://linkedin.com/in/nhsneto) | [email](mailto:nhsneto@gmail.com)
 
 🛠 **Ferramentas:**
 
