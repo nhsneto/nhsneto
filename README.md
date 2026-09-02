@@ -4,7 +4,6 @@
 - 🌱 Tenho interesse em DevOps, Infraestrutura e Suporte.
 - 🔭 Estou participando da Formação Acelerada em Programação (FAP) em **DevOps** na [Aponti](https://aponti.org.br/aponti).
 - 🎓 Estou cursando Análise e Desenvolvimento de Sistemas (ADS) no [IFPE - Campus Recife](https://portal.ifpe.edu.br/recife/).
-- 📫 Como me encontrar: [linkedin](https://linkedin.com/in/nhsneto) | [email](mailto:nhsneto@gmail.com)
 
 🛠 **Ferramentas:**
 
