@@ -1,7 +1,7 @@
 👋 **Um pouco sobre mim:**
 
 - 🌍 Sou de Paulista, Pernambuco.
-- 🌱 Tenho interesse em DevOps, Infraestrutura e Suporte.
+- 🌱 Tenho interesse em DevOps, Desenvolvimento e Infraestrutura.
 - 🔭 Estou participando da Formação Acelerada em Programação (FAP) em **DevOps** na [Aponti](https://aponti.org.br/aponti).
 - 🎓 Estou cursando Análise e Desenvolvimento de Sistemas (ADS) no [IFPE - Campus Recife](https://portal.ifpe.edu.br/recife/).
 
