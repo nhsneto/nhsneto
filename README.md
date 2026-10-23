@@ -17,7 +17,7 @@ Cursando Análise e Desenvolvimento de Sistemas (IFPE, Recife) e Formação Acel
 
 ## Contato
 
-[nhsneto](https://www.linkedin.com/in/nhsneto)
+LinkedIn: [in/nhsneto](https://www.linkedin.com/in/nhsneto)
 
 <!-- 👋 **Um pouco sobre mim:**
 
