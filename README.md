@@ -1,8 +1,8 @@
 # Nelson Neto
  
-Em transição para **DevOps, Cloud e Infraestrutura.**
-
-Cursando Análise e Desenvolvimento de Sistemas (IFPE, Recife) e Formação Acelerada em Programação (FAP) DevOps na Aponti.
+- Em transição para **DevOps, Cloud e Infraestrutura**.
+- Cursando Formação Acelerada em Programação (FAP) DevOps na [Aponti](https://aponti.org.br/).
+- Cursando Análise e Desenvolvimento de Sistemas no [IFPE](https://portal.ifpe.edu.br/recife) - Campus Recife.
 
 ## Ferramentas
 
@@ -17,7 +17,7 @@ Cursando Análise e Desenvolvimento de Sistemas (IFPE, Recife) e Formação Acel
 
 ## Contato
 
-LinkedIn: [in/nhsneto](https://www.linkedin.com/in/nhsneto)
+- LinkedIn: [in/nhsneto](https://linkedin.com/in/nhsneto)
 
 <!-- 👋 **Um pouco sobre mim:**
 
