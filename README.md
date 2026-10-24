@@ -17,7 +17,7 @@
 
 ## Contato
 
-- LinkedIn: [in/nhsneto](https://linkedin.com/in/nhsneto)
+- LinkedIn: [Nelson Neto](https://linkedin.com/in/nhsneto)
 
 <!-- 👋 **Um pouco sobre mim:**
 
